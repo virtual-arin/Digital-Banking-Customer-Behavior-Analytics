@@ -70,3 +70,6 @@ This project aims to analyze customer banking behavior and transaction patterns,
 * **Data Manipulation & Visualization:** Pandas, NumPy, Matplotlib, Seaborn
 * **Version Control:** Git & Github
 * **Environment:** Jupyter Notebook
+
+## 📜 Conclusion
+This project demonstrates how exploratory data analysis can be used to understand customer banking behavior, identify transaction trends, and generate actionable business insights. The findings can help financial institutions improve customer engagement, optimize marketing strategies, and support data-driven decision-making.
