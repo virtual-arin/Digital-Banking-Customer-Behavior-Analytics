@@ -6,6 +6,8 @@ This project aims to analyze customer banking behavior and transaction patterns,
 ## 🎯 Problem Statement
 
 1. What is the age distribution of customers?
+![Age distribution](https://github.com/virtual-arin/Digital-Banking-Customer-Behavior-Analytics/blob/main/images/age_distribution.png)
+
 2. What is the gender distribution of customers?
 3. Which locations have the highest number of customers?
 4. What is the distribution of account balances?
