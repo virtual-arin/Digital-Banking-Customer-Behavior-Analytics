@@ -6,11 +6,21 @@ This project aims to analyze customer banking behavior and transaction patterns,
 ## 🎯 Problem Statement
 
 1. What is the age distribution of customers?
+
 ![Age distribution](https://github.com/virtual-arin/Digital-Banking-Customer-Behavior-Analytics/blob/main/images/age_distribution.png)
 
 2. What is the gender distribution of customers?
-3. Which locations have the highest number of customers?
+
+![Gender distribution](https://github.com/virtual-arin/Digital-Banking-Customer-Behavior-Analytics/blob/main/images/gender_distribution.png)
+
+3. Which 10 locations have the highest number of customers?
+
+![Top 10 locations](https://github.com/virtual-arin/Digital-Banking-Customer-Behavior-Analytics/blob/main/images/top_10_location.png)
+
 4. What is the distribution of account balances?
+
+![Account balance distribution](https://github.com/virtual-arin/Digital-Banking-Customer-Behavior-Analytics/blob/main/images/account_balance.png)
+(https://github.com/virtual-arin/Digital-Banking-Customer-Behavior-Analytics/blob/main/images/account_balance2.png)
 5. Which age group contributes the highest transaction amount?
 6. At what hours do customers transact the most?
 7. Which day of the week has the highest transaction activity?
